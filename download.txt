@@ -38,9 +38,9 @@
             },
 
             {
-                "title": "Going Home_ Theme Of The Local Hero",
-                "url": "https://www.burstcloud.co/share/2613a1f857ca02e1405e71dc7ad19fa8d8734b6a27934f0c28dae88eef2094f7/Mark%20Knopfler%2C%20Dire%20Straits%20-%20Going%20Home_%20Theme%20Of%20The%20Local%20Hero.flac",
-                "download": "https://www.burstcloud.co/share/2613a1f857ca02e1405e71dc7ad19fa8d8734b6a27934f0c28dae88eef2094f7/Mark%20Knopfler%2C%20Dire%20Straits%20-%20Going%20Home_%20Theme%20Of%20The%20Local%20Hero.flac"
+                "title": "Your Latest Trick",
+                "url": "https://www.burstcloud.co/share/9b08cecea77968ac1c129ff0d664acf8ecb7f690e959dbbad6f584a146ceebc4/Mark%20Knopfler%2C%20Dire%20Straits%20-%20Your%20Latest%20Trick.flac",
+                "download": "https://www.burstcloud.co/share/9b08cecea77968ac1c129ff0d664acf8ecb7f690e959dbbad6f584a146ceebc4/Mark%20Knopfler%2C%20Dire%20Straits%20-%20Your%20Latest%20Trick.flac"
             },
 
             {
@@ -98,13 +98,13 @@
             },
 
             {
-                "title": "AThe Long Road",
+                "title": "The Long Road",
                 "url": "https://www.burstcloud.co/share/a627cb3d26c5613118eb71394060ad4fa6139f2f227365313259509f6badc2e1/Mark%20Knopfler%2C%20Dire%20Straits%20-%20The%20Long%20Road.flac",
                 "download": "https://www.burstcloud.co/share/a627cb3d26c5613118eb71394060ad4fa6139f2f227365313259509f6badc2e1/Mark%20Knopfler%2C%20Dire%20Straits%20-%20The%20Long%20Road.flac"
             },
 
             {
-                "title": "he Trawlerman's Song",
+                "title": "The Trawlerman's Song",
                 "url": "https://www.burstcloud.co/share/ed453406d4115f17137580427eba58dc009ed9efb9b2af769d18ac1aecb0dc0d/Mark%20Knopfler%2C%20Dire%20Straits%20-%20The%20Trawlerman's%20Song.flac",
                 "download": "https://www.burstcloud.co/share/ed453406d4115f17137580427eba58dc009ed9efb9b2af769d18ac1aecb0dc0d/Mark%20Knopfler%2C%20Dire%20Straits%20-%20The%20Trawlerman's%20Song.flac"
             },
