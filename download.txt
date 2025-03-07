@@ -1,7 +1,7 @@
 [
     {
-        "album": "Album Name 1",
-        "cover": "https://example.com/album1-cover.jpg",
+        "album": "The Best Of Dire Straits & Mark Knopfler - Private Investigations",
+        "cover": "https://static.qobuz.com/images/covers/54/30/0060249873054_org.jpg",
         "songs": [
             {
                 "title": "Song 1",
@@ -15,15 +15,4 @@
             }
         ]
     },
-    {
-        "album": "Album Name 2",
-        "cover": "https://example.com/album2-cover.jpg",
-        "songs": [
-            {
-                "title": "Song A",
-                "url": "https://example.com/songA.mp3",
-                "download": "https://example.com/songA.mp3?download=true"
-            }
-        ]
-    }
-]
+    
