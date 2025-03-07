@@ -6,7 +6,7 @@
             {
                 "title": "Mark Knopfler, Dire Straits - All The Roadrunning",
                 "url": "https://www.burstcloud.co/share/556741cc0f1efe3159f6c7d4877130158569196c60dd0578a745304cb6bdf523/Mark%20Knopfler%2C%20Dire%20Straits%20-%20All%20The%20Roadrunning.flac",
-                "download": "https://cdn.burstcloud.co/a202503070S7JSoL5Xm0/Mark%20Knopfler,%20Dire%20Straits%20-%20All%20The%20Roadrunning.flac?attach=Mark%20Knopfler%2C%20Dire%20Straits%20-%20All%20The%20Roadrunning.flac"
+                "download": "https://www.burstcloud.co/share/556741cc0f1efe3159f6c7d4877130158569196c60dd0578a745304cb6bdf523/Mark%20Knopfler%2C%20Dire%20Straits%20-%20All%20The%20Roadrunning.flac"
             },
             {
                 "title": "Song 2",
