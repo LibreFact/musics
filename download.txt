@@ -4,19 +4,129 @@
         "cover": "https://static.qobuz.com/images/covers/54/30/0060249873054_org.jpg",
         "songs": [
             {
-                "title": "All The Roadrunning",
-                "url": "https://www.burstcloud.co/share/556741cc0f1efe3159f6c7d4877130158569196c60dd0578a745304cb6bdf523/Mark%20Knopfler%2C%20Dire%20Straits%20-%20All%20The%20Roadrunning.flac",
-                "download": "https://www.burstcloud.co/share/556741cc0f1efe3159f6c7d4877130158569196c60dd0578a745304cb6bdf523/Mark%20Knopfler%2C%20Dire%20Straits%20-%20All%20The%20Roadrunning.flac"
-            },
- {
-                "title": "Going Home_ Theme Of The Local Hero",
-                "url": "https://www.burstcloud.co/share/06a957f22a9cc88be26072dd8e602a5434960665becc42f4e79365c6d6dac823/Mark%20Knopfler%2C%20Dire%20Straits%20-%20Going%20Home_%20Theme%20Of%20The%20Local%20Hero.flac",
-                "download": "https://www.burstcloud.co/share/06a957f22a9cc88be26072dd8e602a5434960665becc42f4e79365c6d6dac823/Mark%20Knopfler%2C%20Dire%20Straits%20-%20Going%20Home_%20Theme%20Of%20The%20Local%20Hero.flac"
+                "title": "Boom, Like That",
+                "url": "https://www.burstcloud.co/share/627da9c3383c8cfba9b4cf7a432acdeb406e4c8e55371bb93803cd7b3bb799f9/Mark%20Knopfler%2C%20Dire%20Straits%20-%20Boom%2C%20Like%20That.flac",
+                "download": "https://www.burstcloud.co/share/627da9c3383c8cfba9b4cf7a432acdeb406e4c8e55371bb93803cd7b3bb799f9/Mark%20Knopfler%2C%20Dire%20Straits%20-%20Boom%2C%20Like%20That.flac"
             },
             {
-                "title": "The Trawlerman's Song",
-                "url": "https://www.burstcloud.co/share/7eb022d7135cae94349ec9846e8a6c868e042886785c8cd73f4e3ae85fefdec0/Mark%20Knopfler%2C%20Dire%20Straits%20-%20The%20Trawlerman's%20Song.flac",
-                "download": "https://www.burstcloud.co/share/7eb022d7135cae94349ec9846e8a6c868e042886785c8cd73f4e3ae85fefdec0/Mark%20Knopfler%2C%20Dire%20Straits%20-%20The%20Trawlerman's%20Song.flac"
+                "title": "Going Home Theme Of The Local Hero",
+                "url": "https://www.burstcloud.co/share/b7a71751a54041506c0367811e30063948670ba017d42f3d33ee8a2fe95e2f90/Mark%20Knopfler%2C%20Dire%20Straits%20-%20Going%20Home_%20Theme%20Of%20The%20Local%20Hero.flac",
+                "download": "https://www.burstcloud.co/share/b7a71751a54041506c0367811e30063948670ba017d42f3d33ee8a2fe95e2f90/Mark%20Knopfler%2C%20Dire%20Straits%20-%20Going%20Home_%20Theme%20Of%20The%20Local%20Hero.flac"
+            },
+
+            {
+                "title": "Brothers In Arms (Album Version)",
+                "url": "https://www.burstcloud.co/share/bfb9bea74909fef9cb630650cb3e3a6a4bf65a9c51553fc6d44bd08e30714466/Mark%20Knopfler%2C%20Dire%20Straits%20-%20Brothers%20In%20Arms%20(Album%20Version).flac",
+                "download": "https://www.burstcloud.co/share/bfb9bea74909fef9cb630650cb3e3a6a4bf65a9c51553fc6d44bd08e30714466/Mark%20Knopfler%2C%20Dire%20Straits%20-%20Brothers%20In%20Arms%20(Album%20Version).flac"
+            },
+
+            {
+                "title": "Calling Elvis (Album Version)",
+                "url": "https://www.burstcloud.co/share/3df05d207584e71cdd23c4b9c9c517c849880a025c638fd577362a6d3fd8c7bc/Mark%20Knopfler%2C%20Dire%20Straits%20-%20Calling%20Elvis%20(Album%20Version).flac",
+                "download": "https://www.burstcloud.co/share/3df05d207584e71cdd23c4b9c9c517c849880a025c638fd577362a6d3fd8c7bc/Mark%20Knopfler%2C%20Dire%20Straits%20-%20Calling%20Elvis%20(Album%20Version).flac"
+            },
+
+            {
+                "title": "Darling Pretty",
+                "url": "https://www.burstcloud.co/share/a9301f6c8e937e58c720a70b89b020acc8bb0beef14c96f5b81b3d3f8d4f17a8/Mark%20Knopfler%2C%20Dire%20Straits%20-%20Darling%20Pretty.flac",
+                "download": "https://www.burstcloud.co/share/a9301f6c8e937e58c720a70b89b020acc8bb0beef14c96f5b81b3d3f8d4f17a8/Mark%20Knopfler%2C%20Dire%20Straits%20-%20Darling%20Pretty.flac"
+            },
+
+            {
+                "title": "Going Home_ Theme Of The Local Hero",
+                "url": "https://www.burstcloud.co/share/2613a1f857ca02e1405e71dc7ad19fa8d8734b6a27934f0c28dae88eef2094f7/Mark%20Knopfler%2C%20Dire%20Straits%20-%20Going%20Home_%20Theme%20Of%20The%20Local%20Hero.flac",
+                "download": "https://www.burstcloud.co/share/2613a1f857ca02e1405e71dc7ad19fa8d8734b6a27934f0c28dae88eef2094f7/Mark%20Knopfler%2C%20Dire%20Straits%20-%20Going%20Home_%20Theme%20Of%20The%20Local%20Hero.flac"
+            },
+
+            {
+                "title": "Love Over Gold",
+                "url": "https://www.burstcloud.co/share/f17bd29b763f33acb8aa6c7dd7a784c134766302f3448d1d6e353eea3f51eec4/Mark%20Knopfler%2C%20Dire%20Straits%20-%20Love%20Over%20Gold.flac",
+                "download": "https://www.burstcloud.co/share/f17bd29b763f33acb8aa6c7dd7a784c134766302f3448d1d6e353eea3f51eec4/Mark%20Knopfler%2C%20Dire%20Straits%20-%20Love%20Over%20Gold.flac"
+            },
+
+            {
+                "title": "Money For Nothing (Album Version)",
+                "url": "https://www.burstcloud.co/share/7e6c781fc23e7763471fda16372fd3039c41380246c2ed9f9d8277cd60ea9906/Mark%20Knopfler%2C%20Dire%20Straits%20-%20Money%20For%20Nothing%20(Album%20Version).flac",
+                "download": "https://www.burstcloud.co/share/7e6c781fc23e7763471fda16372fd3039c41380246c2ed9f9d8277cd60ea9906/Mark%20Knopfler%2C%20Dire%20Straits%20-%20Money%20For%20Nothing%20(Album%20Version).flac"
+            },
+
+            {
+                "title": "On Every Street (Album Version)",
+                "url": "https://www.burstcloud.co/share/92d88084887ad7eec0e2fc7a74033814905fcc18b888f511980c9256570cccac/Mark%20Knopfler%2C%20Dire%20Straits%20-%20On%20Every%20Street%20(Album%20Version).flac",
+                "download": "https://www.burstcloud.co/share/92d88084887ad7eec0e2fc7a74033814905fcc18b888f511980c9256570cccac/Mark%20Knopfler%2C%20Dire%20Straits%20-%20On%20Every%20Street%20(Album%20Version).flac"
+            },
+
+            {
+                "title": "Private Investigations (Edit)",
+                "url": "https://www.burstcloud.co/share/dddf412cb9c6009585cc712d792656d0988e763d6000659bda0355761e1d671e/Mark%20Knopfler%2C%20Dire%20Straits%20-%20Private%20Investigations%20(Edit).flac",
+                "download": "https://www.burstcloud.co/share/dddf412cb9c6009585cc712d792656d0988e763d6000659bda0355761e1d671e/Mark%20Knopfler%2C%20Dire%20Straits%20-%20Private%20Investigations%20(Edit).flac"
+            },
+
+            {
+                "title": "Romeo And Juliet",
+                "url": "https://www.burstcloud.co/share/6bc7839e5fa34c4bc77b6d0a8d19c29f0805a28758ccf25ed19f8ca13ee16f6a/Mark%20Knopfler%2C%20Dire%20Straits%20-%20Romeo%20And%20Juliet.flac",
+                "download": "https://www.burstcloud.co/share/6bc7839e5fa34c4bc77b6d0a8d19c29f0805a28758ccf25ed19f8ca13ee16f6a/Mark%20Knopfler%2C%20Dire%20Straits%20-%20Romeo%20And%20Juliet.flac"
+            },
+
+            {
+                "title": "Sailing To Philadelphia",
+                "url": "https://www.burstcloud.co/share/0b617bdb2fb84688caaa547b48b49991278fc5ef5b5c4f51e1c0a09081f31789/Mark%20Knopfler%2C%20Dire%20Straits%20-%20Sailing%20To%20Philadelphia.flac",
+                "download": "https://www.burstcloud.co/share/0b617bdb2fb84688caaa547b48b49991278fc5ef5b5c4f51e1c0a09081f31789/Mark%20Knopfler%2C%20Dire%20Straits%20-%20Sailing%20To%20Philadelphia.flac"
+            },
+
+            {
+                "title": "So Far Away (Full Version)",
+                "url": "https://www.burstcloud.co/share/0af6037372964772fe351956f2e2244a189ebbb4597cb64b866d2b88cace96c0/Mark%20Knopfler%2C%20Dire%20Straits%20-%20So%20Far%20Away%20(Full%20Version).flac",
+                "download": "https://www.burstcloud.co/share/0af6037372964772fe351956f2e2244a189ebbb4597cb64b866d2b88cace96c0/Mark%20Knopfler%2C%20Dire%20Straits%20-%20So%20Far%20Away%20(Full%20Version).flac"
+            },
+
+            {
+                "title": "Sultans Of Swing",
+                "url": "https://www.burstcloud.co/share/94b498b01e4a4ba79f3caa94090e58f1ba142f46a8a3e216e9277fcaf6d97af5/Mark%20Knopfler%2C%20Dire%20Straits%20-%20Sultans%20Of%20Swing.flac",
+                "download": "https://www.burstcloud.co/share/94b498b01e4a4ba79f3caa94090e58f1ba142f46a8a3e216e9277fcaf6d97af5/Mark%20Knopfler%2C%20Dire%20Straits%20-%20Sultans%20Of%20Swing.flac"
+            },
+
+            {
+                "title": "Telegraph Road",
+                "url": "https://www.burstcloud.co/share/4aeed0812ad0b7bb6b8942c922cdd243efb43717f02aa358c430133d311af5d8/Mark%20Knopfler%2C%20Dire%20Straits%20-%20Telegraph%20Road.flac",
+                "download": "https://www.burstcloud.co/share/4aeed0812ad0b7bb6b8942c922cdd243efb43717f02aa358c430133d311af5d8/Mark%20Knopfler%2C%20Dire%20Straits%20-%20Telegraph%20Road.flac"
+            },
+
+            {
+                "title": "AThe Long Road",
+                "url": "https://www.burstcloud.co/share/a627cb3d26c5613118eb71394060ad4fa6139f2f227365313259509f6badc2e1/Mark%20Knopfler%2C%20Dire%20Straits%20-%20The%20Long%20Road.flac",
+                "download": "https://www.burstcloud.co/share/a627cb3d26c5613118eb71394060ad4fa6139f2f227365313259509f6badc2e1/Mark%20Knopfler%2C%20Dire%20Straits%20-%20The%20Long%20Road.flac"
+            },
+
+            {
+                "title": "he Trawlerman's Song",
+                "url": "https://www.burstcloud.co/share/ed453406d4115f17137580427eba58dc009ed9efb9b2af769d18ac1aecb0dc0d/Mark%20Knopfler%2C%20Dire%20Straits%20-%20The%20Trawlerman's%20Song.flac",
+                "download": "https://www.burstcloud.co/share/ed453406d4115f17137580427eba58dc009ed9efb9b2af769d18ac1aecb0dc0d/Mark%20Knopfler%2C%20Dire%20Straits%20-%20The%20Trawlerman's%20Song.flac"
+            },
+
+            {
+                "title": "Tunnel Of Love (Intro_The Carousel Waltz)",
+                "url": "https://www.burstcloud.co/share/b8eb4565cf60bf083735877869f7675aa5ed0ce4d7652fae6aab33a0a86e9c1f/Mark%20Knopfler%2C%20Dire%20Straits%20-%20Tunnel%20Of%20Love%20(Intro_The%20Carousel%20Waltz).flac",
+                "download": "https://www.burstcloud.co/share/b8eb4565cf60bf083735877869f7675aa5ed0ce4d7652fae6aab33a0a86e9c1f/Mark%20Knopfler%2C%20Dire%20Straits%20-%20Tunnel%20Of%20Love%20(Intro_The%20Carousel%20Waltz).flac"
+            },
+
+            {
+                "title": "Walk Of Life",
+                "url": "https://www.burstcloud.co/share/b1f57aedb19cb2091f4fec1bee81f0591ef3e04342401abb73b9be78342d2dee/Mark%20Knopfler%2C%20Dire%20Straits%20-%20Walk%20Of%20Life.flac",
+                "download": "https://www.burstcloud.co/share/b1f57aedb19cb2091f4fec1bee81f0591ef3e04342401abb73b9be78342d2dee/Mark%20Knopfler%2C%20Dire%20Straits%20-%20Walk%20Of%20Life.flac"
+            },
+
+            {
+                "title": "What It Is",
+                "url": "https://www.burstcloud.co/share/2dcd90d7e1a1fe663dd9805a8c1d84aa59fa355076a9f6e966cebced4b14cd82/Mark%20Knopfler%2C%20Dire%20Straits%20-%20What%20It%20Is.flac",
+                "download": "https://www.burstcloud.co/share/2dcd90d7e1a1fe663dd9805a8c1d84aa59fa355076a9f6e966cebced4b14cd82/Mark%20Knopfler%2C%20Dire%20Straits%20-%20What%20It%20Is.flac"
+            },
+
+
+ {
+                "title": "Why Aye Man (Radio Edit)",
+                "url": "https://www.burstcloud.co/share/ced00e9a4738b75dd63bf028e209e18f540f5861072326694212736967a151c1/Mark%20Knopfler%2C%20Dire%20Straits%20-%20Why%20Aye%20Man%20(Radio%20Edit).flac",
+                "download": "https://www.burstcloud.co/share/ced00e9a4738b75dd63bf028e209e18f540f5861072326694212736967a151c1/Mark%20Knopfler%2C%20Dire%20Straits%20-%20Why%20Aye%20Man%20(Radio%20Edit).flac"
             }
         ]
     },
