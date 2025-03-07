@@ -1,1 +1,29 @@
-
+[
+    {
+        "album": "Album Name 1",
+        "cover": "https://example.com/album1-cover.jpg",
+        "songs": [
+            {
+                "title": "Song 1",
+                "url": "https://example.com/song1.mp3",
+                "download": "https://example.com/song1.mp3?download=true"
+            },
+            {
+                "title": "Song 2",
+                "url": "https://example.com/song2.mp3",
+                "download": "https://example.com/song2.mp3?download=true"
+            }
+        ]
+    },
+    {
+        "album": "Album Name 2",
+        "cover": "https://example.com/album2-cover.jpg",
+        "songs": [
+            {
+                "title": "Song A",
+                "url": "https://example.com/songA.mp3",
+                "download": "https://example.com/songA.mp3?download=true"
+            }
+        ]
+    }
+]
